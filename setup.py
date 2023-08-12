@@ -18,7 +18,7 @@ def get_requirements(file_path:str) -> List[str]:
 
 
 setup(
-    name='house_price_mlops',
+    name='RecommendationSystem_CICD',
     author='hjskhan',
     author_email="hjskhan47@gmail.com",
     version='0.0.1', 

@@ -1,4 +1,10 @@
 pandas
 numpy
 scikit-learn
--e .
+nltk
+matplotlib
+seaborn
+dvc
+dvc_gdrive
+gdrivefs
+#-e .
